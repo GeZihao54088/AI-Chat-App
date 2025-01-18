@@ -86,10 +86,6 @@ AI-Chat-App/
 4.  **推送分支 (`git push origin feature/your-feature`)。**
 5.  **创建一个新的 Pull Request。**
 
-## 许可证
-
-该项目使用 MIT 许可证。
-
 ## 作者
 
 GeZihao54088
