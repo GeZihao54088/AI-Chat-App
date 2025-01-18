@@ -20,10 +20,10 @@
 
 ## 预览
 
-![主界面](app_screenshot1.png)
-![设置界面](app_screenshot2.png)
-![示例1](app_screenshot3.png)
-![示例2](app_screenshot4.png)
+![主界面](images/app_screenshot1.png)
+![设置界面](images/app_screenshot2.png)
+![示例1](images/app_screenshot3.png)
+![示例2](images/app_screenshot4.png)
 
 ## 如何使用
 
@@ -68,14 +68,12 @@ AI-Chat-App/
 ├── settings_dialog.py # 设置对话框代码
 ├── author_dialog.py # 作者信息对话框代码
 ├── app_icon.ico # 应用程序图标
-├── README.md # 本文件
-├── dist/ # 可执行文件目录
-│ └── main.exe # 打包好的可执行文件
 └── images/ # 预览图片
      └── app_screenshot1.png
      └── app_screenshot2.png
      └── app_screenshot3.png
      └── app_screenshot4.png
+└── README.md # 本文件
 ```
 
 ## 贡献
