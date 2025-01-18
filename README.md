@@ -20,7 +20,10 @@
 
 ## 预览
 
-
+![主界面](app_screenshot1.png)
+![设置界面](app_screenshot2.png)
+![示例1](app_screenshot3.png)
+![示例2](app_screenshot4.png)
 
 ## 如何使用
 
